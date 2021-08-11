@@ -3,8 +3,8 @@ Sou aluno do curso técnico em Desenvolvimento de Sistemas 💻 na instituição
 #   
  <div>
   <a href="https://github.com/felipeaioki">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Augusto-Roque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Augusto-Roque&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAioki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAioki&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -17,7 +17,7 @@ Sou aluno do curso técnico em Desenvolvimento de Sistemas 💻 na instituição
  
 <div>
 
-  <a href="https://www.linkedin.com/in/carlos-augusto-roque-2b1143165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/felipe-queiroz-2a5791169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
